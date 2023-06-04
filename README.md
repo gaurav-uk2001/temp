@@ -16,8 +16,4 @@ To View the live site click [here &rarr;](https://gaurav-uk2001.github.io/temp/)
 - Fully Responsive.
 - Loads fast ⚡.
 
-## Lighthouse Report
-
-![Lighthouse Report](/images/lighthouse-report.png)
-
 ### Contributions are warmly welcomed ❤️.
