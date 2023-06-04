@@ -4,7 +4,7 @@
 
 To View the live site click [here &rarr;](https://gaurav-uk2001.github.io/temp/)
 
-![Portfolio Gif](/images/portfolio.gif)
+![Portfolio Gif](/ezgif.com-gif-maker.gif)
 
 ## Features
 
